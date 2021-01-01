@@ -1,0 +1,17 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/vibe_noleaks
+vibe_noleaks.so
+vibe_noleaks.dylib
+vibe_noleaks.dll
+vibe_noleaks.a
+vibe_noleaks.lib
+vibe_noleaks-test-*
+*.exe
+*.o
+*.obj
+*.lst
+*selections.json
+*.dll

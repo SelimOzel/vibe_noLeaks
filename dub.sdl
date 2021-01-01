@@ -1,0 +1,8 @@
+name "vibe_noleaks"
+description "A minimal D application."
+authors "sozel"
+copyright "Copyright © 2021, sozel"
+license "proprietary"
+
+dependency "vibe-d" version="~>0.8.6"
+versions "VibeHighEventPriority"
