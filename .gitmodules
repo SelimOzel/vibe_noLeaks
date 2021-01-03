@@ -1,0 +1,3 @@
+[submodule "vibe.d"]
+	path = vibe.d
+	url = https://github.com/SelimOzel/vibe.d
