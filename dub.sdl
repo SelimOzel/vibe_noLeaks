@@ -4,5 +4,5 @@ authors "sozel"
 copyright "Copyright © 2021, sozel"
 license "proprietary"
 
-dependency "vibe-d" version="~>0.9.3-beta.1"
+dependency "vibe-d" path="/"
 versions "VibeHighEventPriority"
